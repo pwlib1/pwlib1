@@ -1,3 +1,3 @@
 # what's up!
 
-### my hobbies: reverse engineering, modding, programming!
+### my hobbies: reverse engineering, modding and programming!
