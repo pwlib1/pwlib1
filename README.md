@@ -1,4 +1,7 @@
-# PWLIB1 (aka moddelle)
+# Hi there, I'm Pwlib1! 👋
 
-### Welcome to my profile!
-### My hobbies: Reverse Engineering; Modding games; Programming!
+I am a Reverse Engineer & backend-programmer from Russia.
+
+## 🛠️ Tech Stack & Tools
+- **Languages:** [Lua, Python, C++, Java, JavaScript]
+- **Tools:** [Git, IDA Pro, Docker]
