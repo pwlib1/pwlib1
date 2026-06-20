@@ -1,3 +1,4 @@
-# what's up!
+# PWLIB1 (aka moddelle)
 
-### my hobbies: reverse engineering, modding and programming!
+### Welcome to my profile!
+### My hobbies: Reverse Engineering; Modding games; Programming!
